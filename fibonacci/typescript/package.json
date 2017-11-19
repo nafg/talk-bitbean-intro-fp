@@ -1,0 +1,7 @@
+{
+  "name": "fibonacci-typescript",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^8.0.53"
+  }
+}
